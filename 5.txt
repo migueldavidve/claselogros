@@ -1,0 +1,14 @@
+let suma = 7 + 3;
+console.log("el resultado de la suma es: " + suma);
+
+let resta = 10 - 4;
+console.log("el resultado de la resta es: " + resta);
+
+let multiplicacion = 6 * 2;
+console.log("el resultado de su multiplicacion es: " + multiplicacion);
+
+let divicion = 15 / 3;
+console.log("el resultado de la divicion es: " + divicion);
+
+let resto = 9 % 4;
+console.log("el resultado es: " + resto);
